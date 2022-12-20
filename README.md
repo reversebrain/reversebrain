@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reversebrain
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning SCADA
-- 💞️ I’m looking to collaborate on awesome projects about cybersecurity
+- 💪 Tryharder
+- 💻 I’m currently studing for OSCE<sup>3</sup>
+- 👀 I’m looking to collaborate on awesome projects about cybersecurity
 - 📫 Reach me with an e-mail to reversebrain[at]protonmail.com
 
 <!---
