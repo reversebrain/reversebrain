@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @reversebrain
-- 💪 Tryharder
-- 💻 I’m currently studing for OSCE<sup>3</sup>
-- 👀 I’m looking to collaborate on awesome projects about cybersecurity
-- 📫 Reach me with an e-mail to reversebrain[at]protonmail.com
+- 👋 Hi, I’m [@reversebrain](https://twitter.com/reversebrain).
+- 🧠 Tryharder mindset
+- 💻 Currently studing for OSCE<sup>3</sup>
+  -  ✔️ OSCP
+  -  ✔️ OSWP
+  -  ✔️ OSWA
+  -  ✔️ OSWE
+  -  OSEP
+  -  OSED
+- 👀 Looking to collaborate on awesome projects about offensive security
 
 <!---
 reversebrain/reversebrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
