@@ -5,7 +5,7 @@
   -  ✔️ OSWP
   -  ✔️ OSWA
   -  ✔️ OSWE
-  -  OSEP
+  -  ✔️ OSEP
   -  OSED
 - 👀 Looking to collaborate on awesome projects about offensive security
 
