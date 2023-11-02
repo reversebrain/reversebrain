@@ -1,12 +1,13 @@
 - 👋 Hi, I’m [@reversebrain](https://twitter.com/reversebrain).
 - 🧠 Tryharder mindset
-- 💻 Currently studing for OSCE<sup>3</sup>
+- 💻 Currently studing for CRTO I
   -  ✔️ OSCP
   -  ✔️ OSWP
   -  ✔️ OSWA
   -  ✔️ OSWE
   -  ✔️ OSEP
-  -  OSED
+  -  ✔️ OSED
+  -  ✔️ OSCE<sup>3</sup>
 - 👀 Looking to collaborate on awesome projects about offensive security
 
 <!---
